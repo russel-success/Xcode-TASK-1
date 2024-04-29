@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+}
+.container{
+    width:100%;
+    height:100vh;
+    background-color:#111;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.profile-container{
+    background-color:#333;
+    width:30%;
+    background-size: contain;
+    box-sizing:border-box;
+    align
+}
+
+.profile-image{
+    object-fit:cover;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
